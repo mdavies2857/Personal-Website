@@ -206,7 +206,7 @@ body{
 }
 
 #presentation p{
-	color:white;
+	color:black;
 	font-size:35px;
 	line-height:60px;
 	text-transform:uppercase;
@@ -223,8 +223,8 @@ body{
 #about{
 	padding:100px 0 100px 0;
 	height:auto;
-	background:url(../img/simple_green_bg.jpg) left no-repeat;
-	background-size:auto;
+	background:url(../img/tech_bg.jpg) left no-repeat;
+	background-size: 2500px;
 	width:100%;
 	background-color:white;
 	overflow:hidden;
@@ -242,7 +242,8 @@ body{
 #about .col p{
 	font-size:18px;
 	line-height:30px;
-	color: white;
+	color: black;
+	font-weight:bold;
 }
 
 #about .col p span{
@@ -390,7 +391,7 @@ footer{
 	height: 400px;
 	width: 100%;
 	padding: 100px 0 100px 0;
-	background: url(../img/black_green_bg.jpg) center no-repeat;
+	background: url(../img/simple_green_bg.jpg) center no-repeat;
 	background-size: cover;
 	position: relative;
 }
